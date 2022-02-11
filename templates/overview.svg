@@ -33,8 +33,7 @@ th {
   text-align: left;
   font-size: 14px;
   font-weight: 600;
-  color: rgb(0, 32, 242);
-  stroke: white;
+  color: rgb(0, 234, 255);
 }
 
 td {
